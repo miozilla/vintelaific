@@ -3,6 +3,11 @@ miozilla vintelaific : computer vision
 
 ## Artificial Intelligence Traffic Light 
 
+![vintelaific001.png](./media/vintelaific001.png)
+
+![vintelaific002.png](./media/vintelaific002.png)
+
+
 ### Problem Statement
 
 Have you ever driven through a traffic light junction late at night, with no other vehicles in sight, only to be stuck waiting at a red light for minutes? Feeling dumb but you're a law abiding citizen?
