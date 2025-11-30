@@ -8,6 +8,7 @@ miozilla vintelaific : computer vision
 ![vintelaific002.png](./media/vintelaific002.png)
 
 
+
 ### Problem Statement
 
 Have you ever driven through a traffic light junction late at night, with no other vehicles in sight, only to be stuck waiting at a red light for minutes? Feeling dumb but you're a law abiding citizen?
@@ -59,4 +60,9 @@ Observability: Export structured logs to Cloud Monitoring, build dashboards for 
 Agent Evaluation: Benchmark heuristic vs LLM vs RL policies using replayed BigQuery datasets.
 A2A Protocol with Pub/Sub: Implement inter‑junction negotiation and emergency broadcast channels.
 Agent Deployment: Containerize agents with Cloud Run, orchestrate with GKE, autoscale based on traffic volume, and expose REST APIs for integration with city systems.
+
+
+![Kaggle Writeups](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/vintelaific)
+
+
 
