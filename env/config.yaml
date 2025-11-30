@@ -1,0 +1,9 @@
+intersections:
+  A:
+    lanes:
+      - { source: "demo_video_ns.mp4" }
+      - { source: "demo_video_ew.mp4" }
+  B:
+    lanes:
+      - { source: "demo_video_ns2.mp4" }
+      - { source: "demo_video_ew2.mp4" }
