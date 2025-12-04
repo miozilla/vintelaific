@@ -1,5 +1,5 @@
 # vintelaific 🌃🚥🚑
-vintelaific : AI Traffic Light # Kaggle Google Capstone Project, Computer Vision, CCTV Camera, Agent
+vintelaific : AI Traffic Light # Kaggle Google Capstone Project, Computer Vision, CCTV Camera, Agentic AI
 
 ## Artificial Intelligence Traffic Light 
 
