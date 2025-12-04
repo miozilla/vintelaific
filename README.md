@@ -1,5 +1,5 @@
 # vintelaific 🌃🚥🚑
-miozilla vintelaific : computer vision
+vintelaific : AI Traffic Light # CV # CCTV Camera # GCP # Kaggle # Agent
 
 ## Artificial Intelligence Traffic Light 
 
